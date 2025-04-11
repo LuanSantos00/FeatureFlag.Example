@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8bxBfql1JDVC55qEtFVd83nvaZ5mMKJulmfixzzbbXI=",
+  "Source": "FeatureFlag.Example",
+  "BasePath": "_content/FeatureFlag.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

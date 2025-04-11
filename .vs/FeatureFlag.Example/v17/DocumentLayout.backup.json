@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19EC8A5-D142-4FCF-8DAA-E8EF06F4D1C2}|FeatureFlag.Example\\FeatureFlag.Example.csproj|c:\\users\\cliente\\desktop\\estudos\\featureflag\\featureflag.example\\featureflag.example\\services\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19EC8A5-D142-4FCF-8DAA-E8EF06F4D1C2}|FeatureFlag.Example\\FeatureFlag.Example.csproj|solutionrelative:featureflag.example\\services\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19EC8A5-D142-4FCF-8DAA-E8EF06F4D1C2}|FeatureFlag.Example\\FeatureFlag.Example.csproj|c:\\users\\cliente\\desktop\\estudos\\featureflag\\featureflag.example\\featureflag.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19EC8A5-D142-4FCF-8DAA-E8EF06F4D1C2}|FeatureFlag.Example\\FeatureFlag.Example.csproj|solutionrelative:featureflag.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19EC8A5-D142-4FCF-8DAA-E8EF06F4D1C2}|FeatureFlag.Example\\FeatureFlag.Example.csproj|c:\\users\\cliente\\desktop\\estudos\\featureflag\\featureflag.example\\featureflag.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C19EC8A5-D142-4FCF-8DAA-E8EF06F4D1C2}|FeatureFlag.Example\\FeatureFlag.Example.csproj|solutionrelative:featureflag.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\FeatureFlag.Example\\Program.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\FeatureFlag.Example\\Program.cs",
+              "RelativeToolTip": "FeatureFlag.Example\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:31:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\FeatureFlag.Example\\appsettings.json",
+              "RelativeDocumentMoniker": "FeatureFlag.Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\FeatureFlag.Example\\appsettings.json",
+              "RelativeToolTip": "FeatureFlag.Example\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T00:30:26.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyService.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\FeatureFlag.Example\\Services\\MyService.cs",
+              "RelativeDocumentMoniker": "FeatureFlag.Example\\Services\\MyService.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Desktop\\Estudos\\FeatureFlag\\FeatureFlag.Example\\FeatureFlag.Example\\Services\\MyService.cs*",
+              "RelativeToolTip": "FeatureFlag.Example\\Services\\MyService.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:27:00.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
